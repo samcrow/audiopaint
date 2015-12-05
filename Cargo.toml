@@ -1,0 +1,10 @@
+[package]
+name = "audiopaint"
+version = "0.1.0"
+authors = ["Sam Crow <samcrow@uw.edu>"]
+
+[dependencies]
+clap = "^1.5"
+image = "^0.5"
+hound = "^1.1"
+num = "^0.1"
